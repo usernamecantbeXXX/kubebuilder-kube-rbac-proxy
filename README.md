@@ -1,0 +1,1 @@
+# kubebuilder-kube-rbac-proxy
